@@ -57,7 +57,8 @@ To set up the project, follow these steps:
    Open the `index.html` file in your browser using an open server. You can use any server of your choice. For example, if you have **VS Code**, you can use the "Live Server" extension to serve the file.
 
 3. **Start Coding**:  
-   Now you can start modifying the HTML and Tailwind CSS as per your needs.
+   Now you can start modifying the HTML and Tailwind CSS as per your needs. You can also view the live project at:
+   **[Link](https://naimul-2019331065.github.io/mytailwind/)**
 
 4. **Preview Your Project**:  
    Once the server is running, open the project in your browser to see Tailwind CSS in action.
