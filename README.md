@@ -53,23 +53,14 @@ To set up the project, follow these steps:
    cd mytailwind
    ```
 
-2. **Install Dependencies**:  
-   Ensure Node.js is installed, then run:
+2. **Open the `index.html` File**:  
+   Open the `index.html` file in your browser using an open server. You can use any server of your choice. For example, if you have **VS Code**, you can use the "Live Server" extension to serve the file.
 
-   ```bash
-   npm install
-   ```
+3. **Start Coding**:  
+   Now you can start modifying the HTML and Tailwind CSS as per your needs.
 
-3. **Start the Development Server**:
-
-   ```bash
-   npm run dev
-   ```
-
-4. **Build for Production**:
-   ```bash
-   npm run build
-   ```
+4. **Preview Your Project**:  
+   Once the server is running, open the project in your browser to see Tailwind CSS in action.
 
 ---
 
