@@ -44,8 +44,29 @@ This repository, `mytailwind`, contains structured modules to help you understan
 
 ## **Installation and Setup**
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Naimul-2019331065/mytailwind.git
-   cd mytailwind
-   ```
+To set up the project, follow these steps:
+
+1. Clone the Repository:  
+   `git clone https://github.com/Naimul-2019331065/mytailwind.git && cd mytailwind`
+
+2. Install Dependencies:  
+   Ensure Node.js is installed, then run:  
+   `npm install`
+
+3. Start the Development Server:  
+   `npm run dev`
+
+4. Build for Production:  
+   `npm run build`
+
+---
+
+## **Acknowledgments**
+
+This project is inspired by **[Traversy Media](https://www.traversymedia.com/)** and their amazing tutorials on modern web development.
+
+---
+
+## **Author**
+
+Created with ❤️ by [Naimul-2019331065](https://github.com/Naimul-2019331065). Contributions and suggestions are always welcome!
